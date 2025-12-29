@@ -1,2 +1,4 @@
-!product-api/
-!product-ui/
+# تجاهل أي ملفات خارج المجلدين
+*
+!folder1/
+!folder2/
